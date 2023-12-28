@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Its Me <br> 👋Preeti Raj <br> And I'm <span class="text"></span></h1>
+<h1 align="center">Hello👋, I'm Preeti Raj <br> <span class="text"></span></h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on **websites**
