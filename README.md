@@ -19,9 +19,9 @@
 <script> 
 var typed = new Typed(".text", {
     strings: ["Frontend Developer", "YouTuber", "Web Developer"],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
+    type speed: 100,
+    back speed: 100,
+    back delay: 1000,
     loop: true
 });
  
